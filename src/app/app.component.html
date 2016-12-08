@@ -1,3 +1,8 @@
-<h1>
+<md-toolbar color="primary">
   {{title}}
-</h1>
+</md-toolbar>
+<md-card *ngFor="let place of places | async">
+  <md-card-header>{{place.name}}</md-card-header>
+  <img md-card-image [src]="'/assets/'+place.imageUrl">
+  <md-card-content>{{place.description}}</md-card-content>
+</md-card>

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "The Great Wall of China in Beijing — Ten-Thousand-Li-Long Wall",
+        "description":"One of the iconic symbols of China, the Great Wall is the longest wall in the world, an awe-inspiring feat of ancient defensive architecture. Its winding path over rugged country and steep mountains takes in some great scenery. It deserves its place among 'the New Seven Wonders of the World and the UNESCO World Heritage Sites in China.",
+        "imageUrl": "gw.jpg"
+    },
+    {
+        "name": "The Terracotta Army in Xi'an — Emperor Qin's Buried Battalions",
+        "description":"The Terracotta Army has laid underground for more than 2,000 years. However, in 1974, farmers digging a well uncovered one of the greatest archaeological sites in the world. In 1987 it became World Cultural Heritage.",
+        "imageUrl": "ta.jpg"
+    },
+    {
+        "name": "The Forbidden City in Beijing — Imperial Palace for 24 Emperors",
+        "description":"The Forbidden City was the imperial palace of the Ming and Qing Dynasties for 560 years till 1911. 24 emperors lived there. World Cultural Heritage, and now known as ‘the Palace Museum' among Chinese, it is a treasure house of Chinese cultural and historical relics.",        "imageUrl": "fc.jpg"
+    },
+    {
+        "name": "The Li River in Guilin — Watery Wonder",
+        "description":"The karst landscape along the Li River has captured the heart of artists. Generations of Chinese painters and poets have been inspired by the beauty of nature there, using their pens and brushes to capture the breath-taking natural scenery.",
+        "imageUrl": "lr.jpg"
+    },
+    {
+        "name": "The Yellow Mountains in Huangshan",
+        "description":"The Yellow Mountains are the most famous peaks in China, and one of China's three best national parks — the other two being Zhangjiajie National Forest Park and Jiuzhaigou National Forest Park. Compared to the two other national parks, Yellow Mountain National Park is easier to access, and, naturally, more popular and busy.",
+        "imageUrl": "ym.jpg"
+    },
+    {
+        "name": "Giant Pandas in Chengdu",
+        "description":"The giant panda is not only deeply loved by the Chinese, but by many foreigners too, and not just children. Although there are many zoos in China and elsewhere, where you can see a giant panda, the best place to see them is Chengdu — the giant panda's 'hometown'.",
+        "imageUrl": "gp.jpg"
+    },
+    {
+        "name": "The Bund in Shanghai — International Architecture",
+        "description":"The Bund is one of the most recognizable architectural symbols of Shanghai. It showcases the world with its colonial European buildings and skyscrapers the other side of the Huangpu, housing one of the world's foremost business districts.",
+        "imageUrl": "bund.jpg"
+    },
+    {
+        "name": "Victoria Harbor in Hong Kong — Best Spot for Bird's Eye View",
+        "description":"Victoria Peak is the best spot to have a bird's eye view of Hong Kong. Viewed from the peak, both day and night scenes are worth taking in. See high-rise buildings round the busy Victoria Harbour stretching out towards Mainland China. At night the scenery is gorgeous, when the Symphony of Lights of various buildings dances in unison.",
+        "imageUrl": "vh.jpg"
+    },
+    {
+        "name": "West Lake in Hangzhou — Paradise on Earth",
+        "description":"Hangzhou is renowned as China's 'paradise on earth' owing to its beautifully crafted landscape. West Lake was created after the Chinese love for garden-style parks for recreation. West Lake is a place of tranquility where urbanity becomes a silhouette on the northeast horizon and mountains near and far surround it on the other three sides. The occasional pagoda and Chinese-style arched bridge add atmosphere to the tree-lined walkways, verdant islands, and hills.",
+        "imageUrl": "wl.jpg"
+    }
+]
